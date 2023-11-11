@@ -44,7 +44,7 @@ Whether you're a beginner honing your Python skills or an experienced coder look
 
 **License:** This project is open-source and can be used and modified freely.
 
-Type on Command Prompt as:
+Type on Command Prompt as and read about:
 ```bash
 https://github.com/jaiprakashoffcl/Simple-Quiz-Game-Py.wiki.git
 ```
