@@ -73,7 +73,7 @@ https://research.google.com/colaboratory/
 
 <br><br>
 
-If you are using python you need to install the library as:
+If you are using **python** you need to install the library as:
 
 Install package with pip
 
