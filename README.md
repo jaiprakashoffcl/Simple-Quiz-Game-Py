@@ -50,6 +50,21 @@ Whether you're a beginner honing your Python skills or an experienced coder look
 
 ## Installation
 
+First Ensure Python or any other platform based on python is installed as
+Python:
+
+```www.python.org ``` 
+
+<br><br>
+Jupyter Notebook:
+
+```www.jupyter.org ```
+
+<br><br>
+Google Colab:
+
+```https://research.google.com/colaboratory/ ```
+
 Install package with pip
 
 ```bash
