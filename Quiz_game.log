@@ -1,0 +1,36 @@
+2023-11-10 15:23:29,901 INFO user ready to play
+2023-11-10 15:23:40,384 INFO user name is: jaiprakash
+2023-11-10 15:23:44,087 INFO user mobile number is: 12567890
+2023-11-10 15:23:50,389 INFO user birth day date is: 29/10/03
+2023-11-10 15:24:14,791 INFO User Quiz Gaming ID is: j26800/03
+2023-11-10 15:24:23,495 INFO user choosed 1 no subject
+2023-11-10 15:25:07,351 INFO user gave 40 % correct answers
+2023-11-10 15:25:07,351 INFO user gave 60 % wrong answers
+2023-11-10 15:25:14,085 INFO user want to see wrong answers
+2023-11-10 15:25:14,085 INFO 3. The gas usually filled in the electric bulb is
+    a) Nitrogen
+    b) Hydrogen
+    c) Carbon Dioxide
+    d) Oxygen
+
+    Correct ans is:- a)Nitrogen
+    you gave: c
+    
+2023-11-10 15:25:14,085 INFO 4. Which of the gas is not known as green house gas?
+    a) Methane
+    b) Nitrous oxide
+    c) Carbon dioxide
+    d) Hydrogen         
+
+    Correct ans is:- d)Hydrogen
+    you gave: c
+    
+2023-11-10 15:25:14,085 INFO 5. Which of the following is used as a lubricant?
+    a) Graphite
+    b) Silica
+    c) Iron Oxide
+    d) Diamond           
+
+    Correct ans is:- a)Graphite
+    you gave: b
+    
