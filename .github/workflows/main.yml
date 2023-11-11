@@ -16,6 +16,9 @@ jobs:
       with:
         python-version: 3.8
 
+    - name: Check if requirements.txt exists
+      run: test -f requirements.txt || echo "::error::File not found: requirements.txt"
+
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
