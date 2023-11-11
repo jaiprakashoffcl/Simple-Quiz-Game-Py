@@ -51,19 +51,29 @@ Whether you're a beginner honing your Python skills or an experienced coder look
 ## Installation
 
 First Ensure Python or any other platform based on python is installed as
-Python:
+## Python:
 
-```www.python.org ``` 
-
-<br><br>
-Jupyter Notebook:
-
-```www.jupyter.org ```
+```bash 
+www.python.org
+``` 
 
 <br><br>
-Google Colab:
+## Jupyter Notebook:
 
-```https://research.google.com/colaboratory/ ```
+```bash
+www.jupyter.org
+```
+
+<br><br>
+## Google Colab:
+
+```bash 
+https://research.google.com/colaboratory/
+```
+
+<br><br>
+
+If you are using python you need to install the library as:
 
 Install package with pip
 
