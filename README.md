@@ -51,8 +51,6 @@ https://github.com/jaiprakashoffcl/Simple-Quiz-Game-Py.wiki.git
 
 
 
-
-
 ## Installation
 
 First Ensure Python or any other platform based on python is installed as
