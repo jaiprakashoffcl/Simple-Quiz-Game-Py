@@ -6,6 +6,7 @@ This is a Quiz Game project developed in Python, designed to test players' knowl
 
 ## Features
 
+
 - **User-Friendly Interface:** The game boasts a simple and intuitive interface, making it easy for players to engage.
 
 - **Diverse Topics:** The quiz covers a range of subjects, including history, geography, science, and more.
